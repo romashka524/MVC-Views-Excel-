@@ -1,0 +1,444 @@
+J:\MVC Views\MVC Views\bin\MVC Views.dll.config
+J:\MVC Views\MVC Views\bin\MVC Views.dll
+J:\MVC Views\MVC Views\bin\MVC Views.pdb
+J:\MVC Views\MVC Views\bin\Antlr3.Runtime.dll
+J:\MVC Views\MVC Views\bin\EntityFramework.dll
+J:\MVC Views\MVC Views\bin\EntityFramework.SqlServer.dll
+J:\MVC Views\MVC Views\bin\Microsoft.AspNet.Identity.Core.dll
+J:\MVC Views\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\MVC Views\MVC Views\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.dll
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.Cookies.dll
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.dll
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.Facebook.dll
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.Google.dll
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.OAuth.dll
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.Twitter.dll
+J:\MVC Views\MVC Views\bin\Microsoft.Web.Infrastructure.dll
+J:\MVC Views\MVC Views\bin\Newtonsoft.Json.dll
+J:\MVC Views\MVC Views\bin\Owin.dll
+J:\MVC Views\MVC Views\bin\System.Web.Helpers.dll
+J:\MVC Views\MVC Views\bin\System.Web.Mvc.dll
+J:\MVC Views\MVC Views\bin\System.Web.Optimization.dll
+J:\MVC Views\MVC Views\bin\System.Web.Razor.dll
+J:\MVC Views\MVC Views\bin\System.Web.WebPages.Deployment.dll
+J:\MVC Views\MVC Views\bin\System.Web.WebPages.dll
+J:\MVC Views\MVC Views\bin\System.Web.WebPages.Razor.dll
+J:\MVC Views\MVC Views\bin\WebGrease.dll
+J:\MVC Views\MVC Views\bin\System.Web.Helpers.xml
+J:\MVC Views\MVC Views\bin\System.Web.Mvc.xml
+J:\MVC Views\MVC Views\bin\System.Web.Optimization.xml
+J:\MVC Views\MVC Views\bin\System.Web.Razor.xml
+J:\MVC Views\MVC Views\bin\System.Web.WebPages.xml
+J:\MVC Views\MVC Views\bin\System.Web.WebPages.Deployment.xml
+J:\MVC Views\MVC Views\bin\System.Web.WebPages.Razor.xml
+J:\MVC Views\MVC Views\bin\Antlr3.Runtime.pdb
+J:\MVC Views\MVC Views\bin\Newtonsoft.Json.xml
+J:\MVC Views\MVC Views\bin\EntityFramework.xml
+J:\MVC Views\MVC Views\bin\EntityFramework.SqlServer.xml
+J:\MVC Views\MVC Views\bin\Microsoft.AspNet.Identity.Core.xml
+J:\MVC Views\MVC Views\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\MVC Views\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.xml
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.xml
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.Facebook.xml
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.Cookies.xml
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.OAuth.xml
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.Google.xml
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.Twitter.xml
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+J:\MVC Views\MVC Views\bin\ru\System.Web.Helpers.resources.dll
+J:\MVC Views\MVC Views\bin\ru\System.Web.Mvc.resources.dll
+J:\MVC Views\MVC Views\bin\ru\System.Web.Optimization.resources.dll
+J:\MVC Views\MVC Views\bin\ru\System.Web.Razor.resources.dll
+J:\MVC Views\MVC Views\bin\ru\System.Web.WebPages.resources.dll
+J:\MVC Views\MVC Views\bin\ru\System.Web.WebPages.Deployment.resources.dll
+J:\MVC Views\MVC Views\bin\ru\System.Web.WebPages.Razor.resources.dll
+J:\MVC Views\MVC Views\bin\ru\EntityFramework.resources.dll
+J:\MVC Views\MVC Views\bin\ru\EntityFramework.SqlServer.resources.dll
+J:\MVC Views\MVC Views\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+J:\MVC Views\MVC Views\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+J:\MVC Views\MVC Views\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+J:\MVC Views\MVC Views\bin\ru\Microsoft.Owin.resources.dll
+J:\MVC Views\MVC Views\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+J:\MVC Views\MVC Views\bin\ru\Microsoft.Owin.Security.resources.dll
+J:\MVC Views\MVC Views\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+J:\MVC Views\MVC Views\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+J:\MVC Views\MVC Views\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+J:\MVC Views\MVC Views\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+J:\MVC Views\MVC Views\obj\Debug\MVC Views.csprojResolveAssemblyReference.cache
+J:\MVC Views\MVC Views\obj\Debug\MVC Views.dll
+J:\MVC Views\MVC Views\obj\Debug\MVC Views.pdb
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\MVC Views.dll.config
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\MVC Views.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\MVC Views.pdb
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Antlr3.Runtime.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\EntityFramework.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\EntityFramework.SqlServer.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.Owin.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Newtonsoft.Json.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Owin.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\System.Web.Helpers.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\System.Web.Mvc.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\System.Web.Optimization.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\System.Web.Razor.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\System.Web.WebPages.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\WebGrease.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\System.Web.Helpers.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\System.Web.Mvc.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\System.Web.Optimization.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\System.Web.Razor.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\System.Web.WebPages.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Antlr3.Runtime.pdb
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Newtonsoft.Json.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\EntityFramework.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\EntityFramework.SqlServer.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.Owin.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\ru\EntityFramework.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\obj\Debug\MVC Views.csprojResolveAssemblyReference.cache
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\obj\Debug\MVC Views.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views-master\MVC-Views-master\MVC Views\obj\Debug\MVC Views.pdb
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\MVC Views.dll.config
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\MVC Views.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\MVC Views.pdb
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Antlr3.Runtime.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\EntityFramework.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\EntityFramework.SqlServer.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Newtonsoft.Json.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Owin.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Helpers.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Mvc.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Optimization.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Razor.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\WebGrease.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Helpers.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Mvc.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Optimization.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Razor.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Antlr3.Runtime.pdb
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Newtonsoft.Json.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\EntityFramework.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\EntityFramework.SqlServer.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\EntityFramework.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\obj\Debug\MVC Views.csprojResolveAssemblyReference.cache
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\obj\Debug\MVC Views.dll
+C:\Users\Rita\Desktop\ИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\obj\Debug\MVC Views.pdb
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\MVC Views.dll.config
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\MVC Views.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\MVC Views.pdb
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Antlr3.Runtime.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\EntityFramework.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\EntityFramework.SqlServer.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Newtonsoft.Json.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Owin.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Helpers.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Mvc.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Optimization.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Razor.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\WebGrease.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Helpers.xml
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Mvc.xml
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Optimization.xml
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Razor.xml
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.xml
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Antlr3.Runtime.pdb
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Newtonsoft.Json.xml
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\EntityFramework.xml
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\EntityFramework.SqlServer.xml
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.xml
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.xml
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\EntityFramework.resources.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\obj\Debug\MVC Views.csprojResolveAssemblyReference.cache
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\obj\Debug\MVC Views.dll
+C:\Users\Rita\Desktop\ЛАБЫСДАТЬИнтернетПрограмЛабыПаказать\MVC-Views(CSV файлы)\MVC Views\obj\Debug\MVC Views.pdb
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\MVC Views.dll.config
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\MVC Views.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\MVC Views.pdb
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Antlr3.Runtime.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\EntityFramework.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\EntityFramework.SqlServer.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Newtonsoft.Json.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Owin.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Helpers.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Mvc.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Optimization.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Razor.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.Razor.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\WebGrease.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Helpers.xml
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Mvc.xml
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Optimization.xml
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Razor.xml
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.xml
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.Razor.xml
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Antlr3.Runtime.pdb
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Newtonsoft.Json.xml
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\EntityFramework.xml
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\EntityFramework.SqlServer.xml
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.xml
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.xml
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\ru\EntityFramework.resources.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\obj\Debug\MVC Views.csprojResolveAssemblyReference.cache
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\obj\Debug\MVC Views.dll
+C:\Users\Виталик\Desktop\8семестр\WEB\MVC-Views(CSV файлы)\MVC Views\obj\Debug\MVC Views.pdb
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\MVC Views.dll.config
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\MVC Views.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\MVC Views.pdb
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Antlr3.Runtime.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\EntityFramework.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\EntityFramework.SqlServer.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Newtonsoft.Json.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Owin.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Helpers.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Mvc.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Optimization.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Razor.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.Razor.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\WebGrease.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Helpers.xml
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Mvc.xml
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Optimization.xml
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.Razor.xml
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.xml
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\System.Web.WebPages.Razor.xml
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Antlr3.Runtime.pdb
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Newtonsoft.Json.xml
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\EntityFramework.xml
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\EntityFramework.SqlServer.xml
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.xml
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.xml
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\ru\EntityFramework.resources.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\obj\Debug\MVC Views.csprojResolveAssemblyReference.cache
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\obj\Debug\MVC Views.dll
+C:\Users\Виталик\Desktop\Сегодня\MVC-Views(CSV файлы)\MVC Views\obj\Debug\MVC Views.pdb
